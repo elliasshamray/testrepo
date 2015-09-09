@@ -1,0 +1,78 @@
+﻿@using Models.SmartHouseMVC
+@model Device
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    <div>
+
+        <p>@Model.ToString()</p>
+
+        @if (Model is Heating)
+        {
+            <form method="post">
+                <input type="hidden" name="NameDev" value="@Model.Name" />
+                <input name="Com" type="submit" value="Вкл/Выкл" />
+                <input type="hidden" name="TypeDev" value="@Model.GetType()" />
+                Температура
+                    <input name="Com" type="submit" value="+" />
+                <input name="Com" type="submit" value="-" />
+            </form>
+        }
+        @if (Model is TV)
+        {
+            <form method="post">
+                <input type="hidden" name="NameDev" value="@Model.Name" />
+                <input name="Com" type="submit" value="Вкл/Выкл" />
+                <input type="hidden" name="TypeDev" value="@Model.GetType()" />
+                Переключить Канал
+                    <input name="Com" type="submit" value="<-" />
+                <input name="Com" type="submit" value="->" /><br />
+
+                <input name="Com" type="submit" value="Громкость+" />
+                <input name="Com" type="submit" value="Громкость-" /><br />
+
+                <input name="Com" type="submit" value="Контраст+" />
+                <input name="Com" type="submit" value="Контраст-" /><br />
+
+                <input name="Com" type="submit" value="Резкость+" />
+                <input name="Com" type="submit" value="Резкость-" /><br />
+            </form>
+            @ViewBag.Error
+        }
+        @if (Model is Boiler)
+        {
+            <form method="post">
+                <input type="hidden" name="NameDev" value="@Model.Name" />
+                <input name="Com" type="submit" value="Вкл/Выкл" />
+                <input type="hidden" name="TypeDev" value="@Model.GetType()" />
+                <input name="Com" type="submit" value="Наполнить" />
+                <input name="Com" type="submit" value="Слить Воду" />
+                <input name="Com" type="submit" value="Закипетить" /><br />
+            </form>
+            @ViewBag.Error
+        }
+        @if (Model is Louvers)
+        {
+            <form method="post">
+                <input type="hidden" name="NameDev" value="@Model.Name" />
+                <input name="Com" type="submit" value="Вкл/Выкл" />
+                <input type="hidden" name="TypeDev" value="@Model.GetType()" />
+                <input name="Com" type="submit" value="Угол+" />
+                <input name="Com" type="submit" value="Угол-" />
+                <input name="Com" type="submit" value="Поднять/Опустить" /><br />
+            </form>
+            @ViewBag.Error
+        }
+        <p>@Html.ActionLink("Назад к списку", "Index")</p>
+    </div>
+</body>
+</html>

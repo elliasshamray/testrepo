@@ -1,0 +1,95 @@
+﻿@using Models.SmartHouseMVC
+@model DevicesContext
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <form method="post">
+            <p>@Html.TextBox("AddName", "")</p>
+            @Html.RadioButton("AddDev", "Бойлер")
+            Бойлер<br/>
+            @Html.RadioButton("AddDev", "Телевизор")
+            Телевизор<br/>
+            @Html.RadioButton("AddDev", "Жалюзи")
+            Жалюзи<br/>
+            @Html.RadioButton("AddDev", "Светильник")
+            Светильник<br/>
+            @Html.RadioButton("AddDev", "Обогрев")
+            Обогрев<br/>
+
+            <input name="AddDevButton" type="submit" value="Добавить"/>
+        </form>
+        <table>
+
+            @foreach (Device i in Model.tvsets)
+            {
+                <tr>
+                    <td>@i.ToString()</td>
+                    <td>
+                        @Html.ActionLink("Вкл/Выкл", "OnOff", new { id = i.Id, Type = i.GetType() })
+                        @Html.ActionLink("Управлять", "Edit", new { id = i.Id, Type = i.GetType() })
+                        @Html.ActionLink("Убрать из списка", "Delete", new { id = i.Id, Type = i.GetType() })
+
+                    </td>
+                </tr>
+            }
+            @foreach (Device i in Model.boilers)
+            {
+                <tr>
+                    <td>@i.ToString()</td>
+                    <td>
+                        @Html.ActionLink("Вкл/Выкл", "OnOff", new { id = i.Id, Type = i.GetType() })
+                        @Html.ActionLink("Управлять", "Edit", new { id = i.Id, Type = i.GetType() })
+                        @Html.ActionLink("Убрать из списка", "Delete", new { id = i.Id, Type = i.GetType() })
+
+                    </td>
+                </tr>
+            }
+            @foreach (Device i in Model.heatings)
+            {
+                <tr>
+                    <td>@i.ToString()</td>
+                    <td>
+                        @Html.ActionLink("Вкл/Выкл", "OnOff", new { id = i.Id, Type = i.GetType() })
+                        @Html.ActionLink("Управлять", "Edit", new { id = i.Id, Type = i.GetType() })
+                        @Html.ActionLink("Убрать из списка", "Delete", new { id = i.Id, Type = i.GetType() })
+
+                    </td>
+                </tr>
+            }
+            @foreach (Device i in Model.lamps)
+            {
+                <tr>
+                    <td>@i.ToString()</td>
+                    <td>
+                        @Html.ActionLink("Вкл/Выкл", "OnOff", new { id = i.Id, Type = i.GetType() })
+                        @Html.ActionLink("Убрать из списка", "Delete", new { id = i.Id, Type = i.GetType() })
+
+                    </td>
+                </tr>
+            }
+            @foreach (Device i in Model.louvers)
+            {
+                <tr>
+                    <td>@i.ToString()</td>
+                    <td>
+                        @Html.ActionLink("Вкл/Выкл", "OnOff", new { id = i.Id, Type = i.GetType() })
+                        @Html.ActionLink("Управлять", "Edit", new { id = i.Id, Type = i.GetType() })
+                        @Html.ActionLink("Убрать из списка", "Delete", new { id = i.Id, Type = i.GetType() })
+
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

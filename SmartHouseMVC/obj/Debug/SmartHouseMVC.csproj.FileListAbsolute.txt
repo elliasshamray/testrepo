@@ -1,0 +1,217 @@
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.pdb
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.xml
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.xml
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.xml
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.xml
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.xml
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.xml
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.xml
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.xml
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.xml
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Helpers.resources.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.resources.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Mvc.resources.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Razor.resources.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.resources.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.dll
+D:\Oracle\Task2MVC\Task2\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.pdb
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.pdb
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.xml
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.xml
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.xml
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.xml
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.xml
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.xml
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.xml
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.xml
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.xml
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Helpers.resources.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.resources.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Mvc.resources.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Razor.resources.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.resources.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.dll
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.pdb
+D:\Oracle\Task2MVC\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.dll.config
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.pdb
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.xml
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.xml
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.xml
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.xml
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.xml
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.xml
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.resources.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.dll
+C:\Users\Student\Downloads\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.pdb
+F:\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.pdb
+F:\SmartHouseMVC\SmartHouseMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.xml
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.xml
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.xml
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.xml
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.xml
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.xml
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.xml
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.xml
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.xml
+F:\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.xml
+F:\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Net.Http.Formatting.resources.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Helpers.resources.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.resources.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.WebHost.resources.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Mvc.resources.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Razor.resources.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.resources.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.csprojResolveAssemblyReference.cache
+F:\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.dll
+F:\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.pdb
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.pdb
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\EntityFramework.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\EntityFramework.SqlServer.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\EntityFramework.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\EntityFramework.SqlServer.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.xml
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Helpers.resources.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.resources.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Mvc.resources.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Razor.resources.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.resources.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.dll
+D:\Oracle\3.Разработка Web-приложений на платформе .Net\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.pdb
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.dll.config
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\SmartHouseMVC.pdb
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\EntityFramework.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\EntityFramework.SqlServer.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\EntityFramework.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\EntityFramework.SqlServer.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\Newtonsoft.Json.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Net.Http.Formatting.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Helpers.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Http.WebHost.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Mvc.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.Razor.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\System.Web.WebPages.Razor.xml
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Helpers.resources.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.resources.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Mvc.resources.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.Razor.resources.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.resources.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.dll
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.pdb
+D:\Smart-master\Smart-master\SmartHouseMVC\SmartHouseMVC\obj\Debug\SmartHouseMVC.csprojResolveAssemblyReference.cache
